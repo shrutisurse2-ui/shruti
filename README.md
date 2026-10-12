@@ -88,8 +88,7 @@ Start the app:
 uvicorn main:app --reload
 ```
 
-Open http://127.0.0.1:9010/
-
+Open http://127.0.0.1:9013/
 On macOS/Linux, activate the environment with `source .venv/bin/activate` and copy `.env.example` to `.env`.
 
 ## Test scenarios
